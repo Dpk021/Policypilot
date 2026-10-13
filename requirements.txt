@@ -1,0 +1,6 @@
+streamlit>=1.40,<2
+openai>=1.50,<3
+pinecone>=5,<9
+PyMuPDF>=1.24,<2
+python-dotenv>=1.0,<2
+pytest>=8,<9
